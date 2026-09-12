@@ -1,2 +1,0 @@
-# APCore
-AP Core app
