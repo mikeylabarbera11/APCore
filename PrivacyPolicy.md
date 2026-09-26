@@ -28,7 +28,7 @@ This text is used only to create that lesson, set, or grade. We do not store it 
 
 **AI request records.** Each time you use one of the AI features above, we record the time, which feature it was, your account ID, and a one-way hash of your IP address. We use these records only to limit usage and prevent abuse. They are deleted when you delete your account.
 
-**Usage analytics.** We record which screens and features are used, for example "opened a unit" or "answered a question correctly", along with the app version, iOS version, a random ID created when the app is installed, and your account ID. We never record what you type. Because the account ID is included, analytics from a signed-in account are connected to that account. You can turn analytics off at any time in Profile under "Share anonymous usage stats".
+**Usage analytics.** We record which screens and features are used, for example "opened a unit" or "answered a question correctly", along with the app version, iOS version, and a random ID created when the app is installed. Analytics are not linked to your account, name, or email, and we never record what you type. You can turn analytics off at any time in Profile under "Share anonymous usage stats".
 
 **Crash and performance reports.** If the app crashes or freezes, Apple's diagnostics tell the app, and a summary is sent with the usage analytics above. It contains technical details only. Turning off analytics stops these too.
 
@@ -54,12 +54,13 @@ We may also disclose information if the law requires it.
 ## How long we keep data
 
 - Data on your phone stays until you delete the app, sign out, or delete your account.
-- Your account, email, AI request records, and analytics tied to your account are kept until you delete your account.
+- Your account, email, and AI request records are kept until you delete your account.
+- Usage analytics are not tied to your account, so they are kept separately and used only in aggregate.
 - Study content the AI writes for a course (unit walkthroughs, note guides, standard practice sets) is shared by everyone who uses that course and contains nothing about you.
 
 ## Your choices
 
-- **Delete your account** in the app: Profile, then Delete Account. This deletes your account, your AI request records, and analytics tied to your account from our server, and removes all app data from your phone.
+- **Delete your account** in the app: Profile, then Delete Account. This deletes your account and your AI request records from our server, and removes all app data from your phone.
 - **Sign out** removes all app data from your phone.
 - **Turn off analytics** in Profile.
 - **Change ad consent** in Profile under "Ad privacy options", where it applies.
