@@ -15,7 +15,7 @@ AP Core ("the app") is made by Michael LaBarbera ("we", "us"). This policy expla
 
 **Anonymous account.** When you first open the app, it creates an anonymous account on our server with a random ID. It has no name, email, or password. It lets our server limit how many AI requests each person can make, which keeps the app free.
 
-**Account (optional).** If you sign in with Apple, Google, or an email code, we store your email address so you can sign in again. If you use Apple's Hide My Email, we only receive the relay address Apple gives us. If you sign in with Google, Google may also share the name and profile photo on your Google account. We store them with your account but do not show or use them. Signing in upgrades your anonymous account; it does not back up or sync your progress.
+**Account (optional).** If you sign in with Apple or Google, we store your email address so you can sign in again. If you use Apple's Hide My Email, we only receive the relay address Apple gives us. If you sign in with Google, Google may also share the name and profile photo on your Google account. We store them with your account but do not show or use them. Signing in upgrades your anonymous account; it does not back up or sync your progress.
 
 **Study data.** Your enrolled courses, progress, practice answers, notes, mistake log, flashcards, and planner items are stored only on your phone. Deleting the app deletes them.
 
